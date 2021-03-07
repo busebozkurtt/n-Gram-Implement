@@ -1,6 +1,6 @@
 # n Gram Implement
 In the study, n-gram analysis was performed on the corpus containing Turkish characters. These n-gram analyzes are 1-gram, 2-gram, and 3-gram. Java and Pyhon programming languages were used while analyzing. The frequencies for each n-gram were listed from highest to lowest and one hundred items with the highest frequency were found. After performing these operations in both languages, runtime was tested.
-##Results 
+## Results 
 ### 1-Gram
 ![1 gram](https://user-images.githubusercontent.com/50110116/110252185-3b7f8680-7f95-11eb-9d3e-c55c51512dac.JPG)
 ### 2-Gram
